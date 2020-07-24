@@ -1,0 +1,18 @@
+h1 {
+  color: rgba(158, 17, 83, 0.781);
+}
+.social {
+  padding-top: 5%;
+  display: grid;
+}
+.author {
+  display: flex;
+  flex-direction: column;
+}
+
+ul {
+  list-style: none;
+  color: red;
+  display: flex;
+  flex-direction: row;
+}

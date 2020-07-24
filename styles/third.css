@@ -1,0 +1,11 @@
+li {
+  display: grid;
+  padding-top: 20px;
+}
+a {
+  text-decoration: none;
+}
+
+p {
+  color: rgb(61, 45, 5);
+}
